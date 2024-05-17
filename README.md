@@ -1,1 +1,1 @@
-# My solutions of CS50p
+My solutions of CS50p
